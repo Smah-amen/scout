@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="bg-black relative overflow-hidden">
+    <main className="bg-black  overflow-hidden">
       <Navbar />
 
       <div className="hidden md:block absolute top-[90px] bottom-0 left-[10%] w-px bg-gray-600/50"></div>
